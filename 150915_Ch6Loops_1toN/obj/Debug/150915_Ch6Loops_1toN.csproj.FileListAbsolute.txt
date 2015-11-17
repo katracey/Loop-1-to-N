@@ -1,0 +1,11 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\bin\Debug\150915_Ch6Loops_1toN.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\bin\Debug\150915_Ch6Loops_1toN.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\bin\Debug\150915_Ch6Loops_1toN.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\obj\Debug\150915_Ch6Loops_1toN.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\obj\Debug\150915_Ch6Loops_1toN.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\bin\Debug\150915_Ch6Loops_1toN.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\obj\Debug\150915_Ch6Loops_1toN.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\obj\Debug\150915_Ch6Loops_1toN.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\bin\Debug\150915_Ch6Loops_1toN.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\bin\Debug\150915_Ch6Loops_1toN.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150915_Ch6Loops_1toN\150915_Ch6Loops_1toN\obj\Debug\150915_Ch6Loops_1toN.csprojResolveAssemblyReference.cache
